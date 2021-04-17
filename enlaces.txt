@@ -1,0 +1,41 @@
+https://scikit-learn.org/stable/auto_examples/cluster/plot_mini_batch_kmeans.html#sphx-glr-auto-examples-cluster-plot-mini-batch-kmeans-py
+
+https://www.aprendemachinelearning.com/guia-de-aprendizaje/
+
+https://www.cienciadedatos.net/documentos/py07_arboles_decision_python.html
+
+https://www.datacamp.com/community/blog/python-numpy-cheat-sheet
+
+https://www.udacity.com/?gclid=Cj0KCQjwyN-DBhCDARIsAFOELTlXdeGLl3qHpV85lU6TUy7r2KhsSDCV5z2_uQgIGJUBRjDj75YRPRYaAnlpEALw_wcB&utm_campaign=8305564271_c&utm_keyword=udacity_e&utm_medium=ads_r&utm_source=gsem_brand&utm_term=89188409247
+
+https://openwebinars.net/cursos/big-data/?page=4
+
+https://www.machinelearningplus.com/python/101-numpy-exercises-python/ EJERCICIOS
+
+https://towardsdatascience.com/numpy-cheat-sheet-4e3858d0ff0e
+
+https://blog.finxter.com/collection-10-best-numpy-cheat-sheets-every-python-coder-must-own/#Cheat_Sheet_2_Basic_NumPy
+
+https://github.com/ujjwalkarn/DataSciencePython EJERCICIOS
+
+https://scikit-learn.org/stable/auto_examples/index.html
+
+https://chart-studio.plotly.com/feed/#/
+
+https://excelfull.com/
+
+https://antoniolocandro.wordpress.com/category/aixm/
+
+http://som-research.uoc.edu/tools/jsonDiscoverer/#/
+
+https://www.lucidchart.com/pages/es/que-es-un-diagrama-entidad-relacion
+
+https://mygeodata.cloud/map/#16621178-regionesdefinitivo
+
+BUSCAR WEB GUIADA SOBRE CÓMO HACER UN PORTFOLIO PARA UN DATA SCIENCE/ENGINEER
+
+https://www.kaggle.com/abdullahsahin/numpy-tutorial-for-beginner/data
+
+http://seaborn.pydata.org/generated/seaborn.jointplot.html
+
+https://matplotlib.org/2.0.2/api/pyplot_api.html

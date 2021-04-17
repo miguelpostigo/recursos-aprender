@@ -1,0 +1,5 @@
+https://seaborn.pydata.org/index.html
+http://seaborn.pydata.org/generated/seaborn.swarmplot.html
+http://seaborn.pydata.org/generated/seaborn.boxplot.html
+http://seaborn.pydata.org/generated/seaborn.jointplot.html
+https://www.geeksforgeeks.org/python-seaborn-factorplot-method/

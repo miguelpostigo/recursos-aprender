@@ -1,0 +1,2 @@
+https://matplotlib.org/2.0.2/api/pyplot_api.html#matplotlib.pyplot.ylim
+https://matplotlib.org/2.0.2/users/legend_guide.html#legend-location
